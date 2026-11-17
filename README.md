@@ -21,6 +21,10 @@ A curated list of AI SaaS tools categorized by niche. Perfect for inspiration, r
 
 [MusicArt](https://www.musicart.ai/) : Compose emotional and original songs tht blend creativity with intelligence.
 
+[Wav.ai](https://www.wav.ai/): AI music generator that turns text prompts into high-quality, royalty-free songs in seconds.
+
+[Doremi.ai](https://www.doremi.ai/): Create original AI songs and melodies from your ideas or lyrics, with no music skills needed.
+
 
 ## AI Ad Maker/AI UGC Ad Genrator
 
